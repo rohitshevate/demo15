@@ -131,7 +131,7 @@ body{
 	color:rgb(255, 0, 13);
 	position:absolute;
 	top:200px;
-	left:730px;
+	left:715px;
 }
 #Home h4{
 	font-size:27px;
@@ -344,10 +344,10 @@ body{
 	padding:8px;
 }
 #display tr:nth-child(even){
-	background-color: silver;
+	background-color: ivory;
 }
 #display tr:nth-child(odd){
-	background-color: silver;
+	background-color: ivory;
 }
 #display tr:hover{
 	background-color: #ddd;
